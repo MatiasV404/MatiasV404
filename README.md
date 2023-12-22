@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 I'm Matías Véliz, a passionate chilean computer engineering student in my third year of studies. I thrive on turning complex problems into elegant, user-friendly solutions. My journey in the world of technology is driven by curiosity and a commitment to lifelong learning.<br><br>🔍 Constant Search<br>In this ever-evolving field, I am always on the lookout for the latest technologies and trends. Whether it's exploring new programming languages, diving into emerging frameworks, or understanding cutting-edge methodologies.<br><br>🤝Let's Connect!<br>I'm excited about the possibilities that technology offers, and I'm open to collaborations, discussions, and new challenges.
 
 
